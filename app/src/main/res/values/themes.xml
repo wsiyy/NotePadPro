@@ -13,4 +13,7 @@
         <item name="android:navigationBarColor">@color/surface</item>
         <item name="android:windowLightStatusBar">false</item>
     </style>
+
+    <!-- 溢出菜单（PopupMenu）单独使用浅色文字方案，避免继承 Toolbar 的白色文字 -->
+    <style name="ThemeOverlay.NotePadPro.Popup" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式下溢出菜单使用深色主题，文字为浅色 -->
+    <style name="ThemeOverlay.NotePadPro.Popup" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:colorBackground">@color/surface</item>
+    </style>
+</resources>

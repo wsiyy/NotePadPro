@@ -7,6 +7,22 @@
 
 ---
 
+## 效果预览
+
+| 笔记列表（时间戳 / 分类 / 置顶） | 按标题或内容搜索 |
+| --- | --- |
+| ![笔记列表](docs/screenshots/01-list.png) | ![搜索](docs/screenshots/02-search.png) |
+
+| 编辑页（分类 / 创建与更新时间） | 深色模式 |
+| --- | --- |
+| ![编辑页](docs/screenshots/03-edit.png) | ![深色模式](docs/screenshots/04-dark.png) |
+
+| 分类筛选 |
+| --- |
+| ![分类筛选](docs/screenshots/05-category.png) |
+
+---
+
 ## 一、功能清单
 
 ### 基本要求（必做）
