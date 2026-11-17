@@ -1,0 +1,11 @@
+# 忽略构建产物与本地配置
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+build/
+/app/build
+/captures
+.externalNativeBuild
+.cxx

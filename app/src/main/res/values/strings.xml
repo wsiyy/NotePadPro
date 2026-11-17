@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="new_note">新建笔记</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">搜索标题或内容</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="about">关于</string>
+    <string name="about_message">记事本 v1.0\n\n移动软件开发期中实验\n\n· 列表时间戳\n· 标题/内容搜索\n· 分类筛选与置顶\n· 深色模式\n· 分享与导出笔记</string>
+    <string name="save">保存</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="pin">置顶</string>
+    <string name="unpin">取消置顶</string>
+    <string name="export_txt">导出为 TXT</string>
+    <string name="empty_hint">还没有笔记\n点击右下角 + 记录第一条</string>
+    <string name="saved">已保存</string>
+    <string name="delete_confirm">确定删除「%1$s」吗？</string>
+    <string name="delete_confirm_edit">删除后不可恢复，确定删除吗？</string>
+    <string name="created_at">创建于 %1$s</string>
+    <string name="updated_at">更新于 %1$s</string>
+    <string name="time_line">创建于 %1$s · 更新于 %2$s</string>
+    <string name="export_ok">已导出</string>
+    <string name="export_fail">导出失败：%1$s</string>
+    <string name="title_hint">标题</string>
+    <string name="content_hint">开始输入内容…</string>
+    <string name="category">分类</string>
+    <string name="pin_icon">置顶标记</string>
+</resources>
